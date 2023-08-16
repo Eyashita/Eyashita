@@ -33,7 +33,7 @@
         <li>:telescope: Intrigued by subjects like Machine Learning, Artificial Intelligence, and Computer vision!</li>
         <li>:seedling: Using my knowledge to contribute towards a sustainable planet is what I'm focused on.</li>
         <li>:zap: I paint, play Guitar, sing, dance, code, and learn new skills in my free time. </li>
-        <li>:mailbox: How to reach me through mail:<a href="mailto:itsofficial.eyashita10@gmail.com"> Send Email</a></li>
+        <li>:mailbox: How to reach me:<a href="mailto:itsofficial.eyashita10@gmail.com"> Send Email</a></li>
       </ul>
     </td>
     <td>
