@@ -29,10 +29,10 @@
     <td>
       <h2> :woman_technologist: About Me : </h2>
       <ul>
-        <li><img src="https://media.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif" width="30"> I am a Data Science Enthusiast from India.</li>
-        <li>:telescope: Intrigued by subjects like Machine Learning, Artificial Intelligence and Computer vision!</li>
+        <li><img src="https://media.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif" width="30">  I'm an eager learner and tech explorer, devoted to coding and data exploration </li>
+        <li>:telescope: Intrigued by subjects like Machine Learning, Artificial Intelligence, and Computer vision!</li>
         <li>:seedling: Using my knowledge to contribute towards a sustainable planet is what I'm focused on.</li>
-        <li>:zap: I paint, play Guitar, sing, dance, code and learn new skills in my free time. </li>
+        <li>:zap: I paint, play Guitar, sing, dance, code, and learn new skills in my free time. </li>
         <li>:mailbox: How to reach me through mail:<a href="mailto:itsofficial.eyashita10@gmail.com"> Send Email</a></li>
       </ul>
     </td>
